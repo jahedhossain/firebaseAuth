@@ -1,0 +1,22 @@
+Client ID
+84061756105-rnhbfv4t9dnmmaege9m48ttljtkbu0v3.apps.googleusercontent.com
+{
+  "web": {
+    "client_id": "84061756105-rnhbfv4t9dnmmaege9m48ttljtkbu0v3.apps.googleusercontent.com",
+    "project_id": "turing-zone-440209-i7",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "https://hiredesk.work",
+      "https://todoapp-two-topaz.vercel.app"
+    ],
+    "javascript_origins": [
+      "http://localhost:3008",
+      "https://demo-google-auth.netlify.app",
+      "https://todoapp-two-topaz.vercel.app"
+    ]
+  }
+}
+
